@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+      "nombre": "Tapado S",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+     "precio": 20000,
+      "talle": "L",
+      "image": "./imagen/pantalonblanco.jpg"
+    },
+    {
+      "id": 2,
+      "nombre": "Tapado S",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "L",
+      "image": "./imagen/pantalonblanco.jpg"
+    },
+    {
+      "id": 3,
+      "nombre": "Tapado S",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "M",
+      "image": "./imagen/pantalonblanco.jpg"
+    },
+    {
+      "id": 4,
+      "nombre": "Tapado S",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "M",
+      "image": "./imagen/pantalonblanco.jpg"
+    },
+    {
+      "id": 5,
+      "nombre": "Tapado S",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "M",
+      "image": "./imagen/pantalonblanco.jpg"
+    },
+    {
+      "id": 6,
+      "nombre": "Tapado M",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "S",
+      "image": "./imagen/tapadomujer.jpg"
+    },
+    {
+      "id": 7,
+      "nombre": "Tapado M",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "L",
+      "image": "./imagen/tapadomujer.jpg"
+    },
+    {
+      "id": 8,
+      "nombre": "Tapado XL",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "L",
+      "image": "./imagen/tapadomujer.jpg"
+    },
+    {
+      "id": 9,
+      "nombre": "Tapado XL",
+      "tipo": "Tapado",
+      "cantidad": 1,
+      "desc": "El mejor tapado para el invierno",
+      "precio": 20000,
+      "talle": "L",
+      "image": "./imagen/tapadomujer.jpg"
+    }
+  ]
